@@ -21,4 +21,4 @@ Training data visualisation:
 
 Results:
 
-<img src="SnP_StockData.png" alt="SnP 500 Dataset" width="50%">
+<img src="LDA_Classification.png" alt="SnP 500 Dataset" width="50%">
