@@ -10,7 +10,7 @@ The classification problem is framed mathematically under the assumption that th
 
 Training data visualisation:
 
-<img src="IrisTrainingData.png" alt="SnP 500 Dataset" width="90%">
+<img src="IrisTrainingDataset.png" alt="SnP 500 Dataset" width="90%">
 
 ## Outcomes
 - Estimated the mean vectors for each population based on the training data.
