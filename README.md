@@ -10,7 +10,7 @@ The classification problem is framed mathematically under the assumption that th
 
 Training data visualisation:
 
-<img src="IrisTrainingDataset.png" alt="SnP 500 Dataset" width="90%">
+<img src="LDA Classification/IrisTrainingDataset.png" alt="IrisTrainingDataset" width="90%">
 
 ## Outcomes
 - Estimated the mean vectors for each population based on the training data.
@@ -21,4 +21,4 @@ Training data visualisation:
 
 Results:
 
-<img src="LDA_Classification.png" alt="SnP 500 Dataset" width="50%">
+<img src="LDA Classification/LDA_Classification.png" alt="LDA Classification" width="50%">
