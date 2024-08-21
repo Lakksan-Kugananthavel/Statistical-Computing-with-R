@@ -16,7 +16,7 @@ plot(iris_training$Petal.Width ~ iris_training$Petal.Length,
      main = "Petal Width vs. Petal Length")
 
 # Add a legend to the first plot
-legend("bottomright",
+legend("topleft",
        legend = c("Population A", "Population B"),
        pch = c(16, 17),
        col = c("magenta", "blue"), 
@@ -30,7 +30,7 @@ plot(iris_training$Sepal.Width ~ iris_training$Sepal.Length,
      col = c("magenta", "blue")[as.numeric(as.factor(iris_training$population))],
      main = "Sepal Width vs. Sepal Length")
 # Add a legend to the second plot
-legend("bottomright", 
+legend("topleft", 
        legend = c("Population A", "Population B"), 
        pch = c(16, 17), 
        col = c("magenta", "blue"),
