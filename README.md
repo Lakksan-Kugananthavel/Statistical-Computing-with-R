@@ -28,6 +28,6 @@ Results:
 A Python implementation of the Geometric Brownian Motion (GBM) model to forecast the future stock price evolution of Apple Inc, here we have used stock data from 2017-2018 as training data and aim to forecast the final value 2018-2019. GBM is a widely used stochastic process in financial modeling, particularly for simulating the paths of stock prices and other financial instruments.
 
 ### Features
-- Key features the project leverages stochastic methods to model the random nature of stock price movements
-- GBM Model Implementation: The GBM equation is implemented in Python to simulate n paths of stock price evolution, considering both the drift and volatility components.
-- The final stock price is estimated by averaging the results of multiple GBM simulations.
+- The project leverages stochastic methods to model the random nature of stock price movements
+- The GBM equation is implemented in Python to simulate n paths of stock price evolution, considering both the drift and volatility components.
+- The final stock price is estimated by averaging the results of multiple GBM simulations
