@@ -33,6 +33,6 @@ A Python implementation of the Geometric Brownian Motion (GBM) model to forecast
 - The final stock price is estimated by averaging the results of multiple GBM simulations
 
 Results:
-<img src="LDA Classification/LDA_Classification.png" alt="Apple Stocks" width="50%">
-<img src="LDA Classification/LDA_Classification.png" alt="Apple Stocks" width="50%">
-<img src="LDA Classification/LDA_Classification.png" alt="Apple Stocks" width="50%">
+<img src="Forecasting Financial Markets/Log-returns Apple.png" alt="Apple Stocks" width="50%">
+<img src="Forecasting Financial Markets/ForecastedStockPrice.png" alt="Apple Stocks" width="50%">
+<img src="Forecasting Financial Markets/HistogramofForecastedValues.png" alt="Apple Stocks" width="50%">
