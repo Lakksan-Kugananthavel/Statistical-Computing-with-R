@@ -31,3 +31,8 @@ A Python implementation of the Geometric Brownian Motion (GBM) model to forecast
 - The project leverages stochastic methods to model the random nature of stock price movements
 - The GBM equation is implemented in Python to simulate n paths of stock price evolution, considering both the drift and volatility components.
 - The final stock price is estimated by averaging the results of multiple GBM simulations
+
+Results:
+<img src="LDA Classification/LDA_Classification.png" alt="Apple Stocks" width="50%">
+<img src="LDA Classification/LDA_Classification.png" alt="Apple Stocks" width="50%">
+<img src="LDA Classification/LDA_Classification.png" alt="Apple Stocks" width="50%">
