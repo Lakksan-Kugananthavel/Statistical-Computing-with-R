@@ -19,8 +19,6 @@ Training data visualisation:
 - Implemented the LDA decision rule to classify a new observation by calculating the linear discriminant score and comparing it to a decision boundary.
 - Evaluated the model accuracy by predicting an existing test set; identifying a classification accuracy on 92%
 
-Results:
-
 <img src="LDA Classification/LDA_Classification.png" alt="LDA Classification" width="50%">
 
 ## Forecasting Apple Stock Prices using Geometric Brownian Motion (GBM)
@@ -32,7 +30,6 @@ A Python implementation of the Geometric Brownian Motion (GBM) model to forecast
 - The GBM equation is implemented in Python to simulate n paths of stock price evolution, considering both the drift and volatility components.
 - The final stock price is estimated by averaging the results of multiple GBM simulations
 
-Results:
 <img src="Forecasting Financial Markets/Log-returns Apple.png" alt="Apple Stocks" width="50%">
 <img src="Forecasting Financial Markets/ForecastedStockPrice.png" alt="Apple Stocks" width="50%">
 <img src="Forecasting Financial Markets/HistogramofForecastedValues.png" alt="Apple Stocks" width="50%">
